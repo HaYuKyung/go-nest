@@ -1,2 +1,0 @@
-# go-nest
-learning nestjs
